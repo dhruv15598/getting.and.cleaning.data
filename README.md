@@ -1,4 +1,5 @@
-# getting.and.cleaning.dataThis repository is to submit the assignment for getting and cleaning data course.
+# getting.and.cleaning.data 
+This repository is to submit the assignment for getting and cleaning data course.
 
 ## Human Activity Recognition Using Smartphones Dataset
 
